@@ -17,7 +17,6 @@ Download the ZIP or Clone the repository.
 3.For 32-bit `mv * /usr/lib/python2.7/site-packages/` 
   For 64-bit `mv * /usr/lib64/python2.7/site-packages/`
   
-  ### Notes
+### Notes
   
-  These bindings will be useful for python 2.7 on REDHAT/CENTOS 8. News regarding Python3 subversion support can be tracked on this [branch](https://svn.apache.org/viewvc/subversion/branches/swig-py3/)
- 
+These bindings will be useful for python 2.7 on REDHAT/CENTOS 8. Python3 support for subversion is available from subversion-1.14.0 release.
